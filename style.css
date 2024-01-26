@@ -1,0 +1,12 @@
+.hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url('./assets/Desain\ tanpa\ judul\ \(1\).png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
+
+  
